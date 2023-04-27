@@ -1,0 +1,7 @@
+#;parameterType;parameterName;parameter_Min;parameter_Max;parameterElements(CP=clamp,clamp_min,clamp_max,balance,balance_step)(MP=target_value,approx_range)(GCP=distr_type,balance,bsets<>,bmodulations<>)
+CP;IT;0;20;true;4;16;1;2
+GCP;global_IT;0;20;1;true;1.8;0.85
+MP;APA;0;20;unknown;3
+MP;HR;90;190;unknown;20
+RL;APA;IT
+MA;2
